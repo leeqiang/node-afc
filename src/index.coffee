@@ -1,5 +1,4 @@
 
-fs = require('fs')
 glob = require('glob')
 
 class AFC

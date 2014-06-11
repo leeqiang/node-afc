@@ -30,7 +30,7 @@ var config = require('afc').set('dirs', []).config
 
 ## 限定的配置文件名及后缀
 
-- 检查文件名为: config, afc
+- 检查文件名为: `config`, `afc`
 - 文件名后缀: `js`, `json`, `coffee`
 
 
