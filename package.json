@@ -1,0 +1,23 @@
+{
+  "name": "afc",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "maintainers": [
+    "teambition",
+    "leeqiang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeqiang/node-afc.git"
+  },
+  "keywords": [
+    "node",
+    "sdk",
+    "configuration"
+  ],
+  "author": "Lee Qiang",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^4.0.2"
+  }
+}
